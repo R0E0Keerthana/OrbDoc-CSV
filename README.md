@@ -18,4 +18,4 @@ To run the app on your local machine, follow these steps:-
 5. >python OrbDoc.py
 6. Go to *http://localhost:5555/*
 
-**NOTE:** Refer the *Explanation.pdf* file and *Sample Run.pdf* file for block wise explanation and sample execution respectively
+**NOTE:** Refer the ***Explanation.pdf*** file and ***Sample Run.pdf*** file for block wise explanation and sample execution respectively
