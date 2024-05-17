@@ -16,6 +16,6 @@ To run the app on your local machine, follow these steps:-
 2. Download the *OrbDoc.py* file and *templates* folder
 4. In cmd, go to the location where the files are, and type the following
 5. >python OrbDoc.py
-6. Go to >*localhost:5555*
+6. Go to *http://localhost:5555/*
 
 **NOTE:** Refer the *Explanation.pdf* file and *Sample Run.pdf* file for block wise explanation and sample execution respectively
